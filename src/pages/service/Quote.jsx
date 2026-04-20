@@ -1,6 +1,6 @@
 import React from "react";
 import "../../App.css";
-import homePage from "../../assets/images/homePage.jpg";
+import homePage from "../../assets/images/homepage.jpg";
 import Form from 'react-bootstrap/Form';
 
 export default function Quote() {

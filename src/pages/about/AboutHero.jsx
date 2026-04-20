@@ -1,5 +1,5 @@
 import React from "react";
-import ab from "../../assets/images/About.jpg"
+import ab from "../../assets/images/about.jpg"
 
 export default function AboutHero() {
     return (
